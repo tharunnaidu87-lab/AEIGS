@@ -1,0 +1,18 @@
+{
+  "name": "AEGIS Emergency Response",
+  "short_name": "AEGIS",
+  "description": "Predictive emergency response and resource orchestration prototype.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050913",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
